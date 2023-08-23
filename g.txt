@@ -1,0 +1,17 @@
+<html>
+<stile>
+<body>
+<from action="login.php" method="pos">
+<h3>login<h3>
+<Label for="txt1">usuario:</Label>
+<input type="" name"t2" required>
+<br>
+<br>
+<Label form="txt1">password:</Label>
+<input type="" name"t2" required>
+<br>
+<input type="submit" name="" value="ingresar">
+</from>
+</body>
+</html>
+
